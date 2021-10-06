@@ -1,0 +1,1 @@
+git permet d'utliser le versioning de git sans avoir à apprendre git.
